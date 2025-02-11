@@ -4,7 +4,7 @@ Olá! Sou Eduardo Walace, um desenvolvedor Full Stack apaixonado por tecnologia.
 
 ---
 
-## 📊 Estatísticas no GitHub:
+## 📊 Estatísticas no GitHub
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duwalace&show_icons=true&theme=dark&hide_border=true&count_private=true" />
