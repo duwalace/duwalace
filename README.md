@@ -63,7 +63,7 @@ Olá! Sou Eduardo Walace, um desenvolvedor Full Stack apaixonado por tecnologia.
 
 ## 📂 Projetos
 
--  ## Fintech
+-  ## 🖥Fintech
 -  O projeto Fintech é uma aplicação inovadora voltada para o setor financeiro, oferecendo soluções tecnológicas para otimizar a gestão de investimentos, transações e análise de dados financeiros. Desenvolvido com tecnologias modernas como React Native, Laravel e Firebase, o sistema permite que usuários acompanhem seus rendimentos, realizem operações seguras e obtenham insights valiosos sobre suas finanças. Com uma interface intuitiva e responsiva, o projeto busca democratizar o acesso a serviços financeiros, tornando a experiência do usuário mais ágil, eficiente e acessível.
 
 ---
