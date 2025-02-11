@@ -13,7 +13,7 @@ Olá! Sou Eduardo Walace, um desenvolvedor Full Stack apaixonado por tecnologia.
   
   <br />
 
-  <h3 style="color: white;">Most Used Languages</h3>
+  <h3 style="color: #ffffff;">Most Used Languages</h3>
   <p style="color: #39ff14; font-weight: bold;">No languages data.</p>
 </div>
 
