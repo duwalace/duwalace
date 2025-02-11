@@ -17,7 +17,7 @@ Olá! Sou Eduardo Walace, um desenvolvedor Full Stack apaixonado por tecnologia.
 ## 🏆 Conquistas
 
 - 🏅 Selecionado como um dos 16 melhores projetos do SENAI em 2024
-- 🏆 Finalista no evento Dev Experience do SENAI 
+- 🏆 Finalista no evento Dev Experience do SENAI
 ---
 
 ## 🚀 Tecnologias
