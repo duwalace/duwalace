@@ -8,9 +8,15 @@ Olá! Sou Eduardo Walace, um desenvolvedor Full Stack apaixonado por tecnologia.
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=duwalace&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duwalace&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duwalace&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duwalace&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  
+  <br />
+
+  <h3 style="color: white;">Most Used Languages</h3>
+  <p style="color: #39ff14; font-weight: bold;">No languages data.</p>
 </div>
+
 
 
 ---
