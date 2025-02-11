@@ -6,7 +6,8 @@ Olá! Sou Eduardo Walace, um desenvolvedor Full Stack apaixonado por tecnologia.
 
 ## 📊 GitHub Stats
 
-![Eduardo Walace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duwalace&show_icons=true&theme=dark)
+(![Eduardo Walace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duwalace&show_icons=true&theme=dark&cache_seconds=86400)
+
 
 
 ### 📌 Linguagens mais usadas
