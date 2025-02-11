@@ -1,4 +1,4 @@
-# 📍 Sobre Mim
+# 💻 Sobre Mim
 
 Olá sou Eduardo Walace, um programador Full Stack apaixonado por tecnologia. Tenho experiência no desenvolvimento de sistemas web e mobile, utilizando diversas tecnologias para criar soluções eficientes e inovadoras.
 
@@ -72,6 +72,14 @@ Olá sou Eduardo Walace, um programador Full Stack apaixonado por tecnologia. Te
 - 🎓 Formação técnica em Desenvolvimento de Sistemas pelo **SENAI**
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo **SENAI**
 - 🏆 Experiência liderando equipes e projetos
+  ---
+
+## 🎓 Formação e Experiência
+
+- 🎓 Formação técnica em Desenvolvimento de Sistemas pelo **SENAI**
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo **SENAI**
+- 🏆 Experiência liderando equipes e projetos
+- 🏅 Participação em competições e eventos da área de tecnologia
 
 ---
 
