@@ -79,4 +79,35 @@ Olá! Sou Eduardo Walace, um desenvolvedor Full Stack apaixonado por tecnologia.
 
 ---
 
+## 🔥 Repositórios Populares
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/duwalace/bytecode">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duwalace&repo=bytecode&theme=dark&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/duwalace/caueeex">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duwalace&repo=caueeex&theme=dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/duwalace/Sistema-Vann">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duwalace&repo=Sistema-Vann&theme=dark&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/duwalace/React-Vann">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duwalace&repo=React-Vann&theme=dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 
