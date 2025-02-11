@@ -20,8 +20,7 @@ Olá! Sou Eduardo Walace, um desenvolvedor Full Stack apaixonado por tecnologia.
 ## 🏆 Conquistas
 
 - 🏅 Selecionado como um dos 16 melhores projetos do SENAI em 2024
-- 🏆 Finalista em duas edições em eventos como Dev Experience e Senai para o Mundo
-
+- 🏆 Finalista no evento Dev Experience do SENAI 
 ---
 
 ## 🚀 Tecnologias
@@ -53,10 +52,9 @@ Olá! Sou Eduardo Walace, um desenvolvedor Full Stack apaixonado por tecnologia.
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Laragon](https://laragon.org/images/laragon-logo.png)
 ---
 
-## 🔗 Onde me achar
+## 🔗 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-walace/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardowalace2@gmail.com)
@@ -64,6 +62,8 @@ Olá! Sou Eduardo Walace, um desenvolvedor Full Stack apaixonado por tecnologia.
 ---
 
 ## 📂 Projetos
+
+-  ...Fintech...
 
 ---
 
