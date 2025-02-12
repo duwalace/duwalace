@@ -15,10 +15,11 @@ Me chamo Eduardo Walace, tenho 20 anos e sou de Taubaté-SP. Concluí o ensino m
       <img height="170em" src="https://github-readme-stats.vercel.app/api?username=duwalace&show_icons=true&theme=dark&hide_border=true&count_private=true" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duwalace&layout=compact&cache_seconds=86400" />
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duwalace&layout=compact&langs_count=3&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
+
 
 ---
 
