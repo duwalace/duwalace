@@ -1,6 +1,6 @@
 ---
 # 👨‍💻 Eduardo Walace
-Sou um desenvolvedor Full Stack apaixonado por tecnologia, especializado na criação de sistemas web e mobile. Tenho experiência no desenvolvimento de soluções inovadoras e eficientes, utilizando diversas tecnologias para entregar produtos de alta qualidade. Meu foco está em criar aplicações escaláveis, performáticas e com ótima experiência para o usuário.
+Olá! Sou Eduardo Walace, um desenvolvedor Full Stack apaixonado por tecnologia. Tenho experiência na criação de sistemas web e mobile, desenvolvendo soluções inovadoras e eficientes. Utilizo diversas tecnologias para criar aplicações escaláveis, performáticas e com uma excelente experiência para o usuário.
 
 ---
 
