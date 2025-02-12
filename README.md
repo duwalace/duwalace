@@ -1,9 +1,8 @@
 ---
 # 👨‍💻 Eduardo Walace
+---
 
-```
-Desenvolvedor FullStack
-```
+`Desenvolvedor FullStack`
 
 Me chamo Eduardo Walace, tenho 20 anos e sou de Taubaté-SP. Concluí o ensino médio no SESI, juntamente com o curso técnico em Desenvolvimento de Sistemas no SENAI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI. Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência na criação de sistemas web e mobile, desenvolvendo soluções inovadoras e eficientes.
 
