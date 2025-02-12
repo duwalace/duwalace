@@ -1,5 +1,5 @@
 ---
-# 👨‍💻 Eduardo Walace
+# 👨‍💻 Eduardo Walace.
 
 ``Desenvolvedor FullStack``
 
