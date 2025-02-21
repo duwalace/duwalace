@@ -20,13 +20,6 @@ Me chamo Eduardo Walace, tenho 20 anos e sou de Taubaté-SP. Concluí o ensino m
   </tr>
 </table>
 
-
----
-
-## 🏆 Conquistas
-
-- 🏅 Selecionado como um dos 16 melhores projetos do SENAI em 2024
-- 🏆 Finalista no evento Dev Experience do SENAI
 ---
 
 ## 🚀 Tecnologias
