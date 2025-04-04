@@ -1,4 +1,4 @@
-# <div align="center">I am a Full Stack Developer.</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=I+am+a+Full+Stack+Developer." alt="Typing SVG" />
@@ -53,27 +53,23 @@ Sou **Eduardo Walace**, um desenvolvedor Full Stack apaixonado por tecnologia. T
 
 ---
 
-## Conquistas
+## 🏆 Conquistas
 
-- 🏆 **Selecionado como um dos 16 melhores projetos do SENAI em 2024.**
-- 🥈 **Finalista em eventos como Dev Experience e Senai para o Mundo.**
+- 🥇 Selecionado como um dos 16 melhores projetos do SENAI em 2024
+- 🏅 Finalista em duas edições em eventos como Dev Experience & Sênia para o Mundo
 
----
+## 🛠️ Tecnologias
 
-## Tecnologias Utilizadas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/html5.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/react.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/nodedotjs.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/php.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/laravel.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
