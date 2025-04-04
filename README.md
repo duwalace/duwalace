@@ -92,11 +92,11 @@ Sou **Eduardo Walace**, um desenvolvedor Full Stack apaixonado por tecnologia. T
 
 ## Projetos
 
-### 🚀 **Vann**
+### 🚀 **Viva Flor**
 
-**Descrição:** Sistema desenvolvido para otimizar a rotina de condutores e oferecer tranquilidade aos pais, permitindo a visualização da rota em tempo real.  
-**Tecnologias:** PHP, Laravel, JavaScript, React Native, React, CSS, HTML, Python, SQL.  
-**Metodologias:** Scrum para gerenciar a equipe e garantir a entrega de um software de alta qualidade.
+**Descrição:** Sistema desenvolvido para gerenciar uma floricultura de forma eficiente, permitindo a administração de pedidos, controle de estoque e acompanhamento de entregas em tempo real. 
+**Tecnologias:** PHP, JavaScript, CSS, HTML, SQL.  
+**Metodologias:**  Scrum para gerenciar a equipe e garantir a entrega de um software de alta qualidade, promovendo organização e colaboração no desenvolvimento.
 
 ---
 
