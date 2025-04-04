@@ -39,17 +39,14 @@ Sou **Eduardo Walace**, um desenvolvedor Full Stack apaixonado por tecnologia. T
 
 ## Principais Habilidades
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/react.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/nodedotjs.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/php.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/laravel.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -62,14 +59,9 @@ Sou **Eduardo Walace**, um desenvolvedor Full Stack apaixonado por tecnologia. T
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
