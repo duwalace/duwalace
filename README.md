@@ -1,109 +1,119 @@
----
-## 👨‍💻 Eduardo Walace
-
-Desenvolvedor FullStack
-
-Me chamo Eduardo Walace, tenho 20 anos e sou de Taubaté-SP. Concluí o ensino médio no SESI, juntamente com o curso técnico em Desenvolvimento de Sistemas no SENAI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI. Sou um desenvolvedor Full Stack apaixonado por tecnologia, com experiência na criação de sistemas web e mobile, desenvolvendo soluções inovadoras e eficientes.
-
----
-
-## 📊 Estatísticas no GitHub
-
-<table>
-  <tr>
-    <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=duwalace&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duwalace&layout=compact&langs_count=3&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00DDEB&center=true&vCenter=true&width=500&lines=I+am+a+Full+Stack+Developer." alt="Typing SVG" />
+  </h1>
+  <p>
+    <img src="https://i.imgur.com/8jX8v5G.png" alt="Fundo estilizado" width="100%" style="border-radius: 10px;">
+  </p>
+</div>
 
 ---
 
-## 🚀 Tecnologias
+## 👨‍💻 Sobre Mim
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+Sou **[Seu Nome]**, um desenvolvedor Full Stack apaixonado por tecnologia. Tenho experiência no desenvolvimento de sistemas web e mobile, utilizando diversas tecnologias para criar soluções eficientes e inovadoras.
 
 ---
 
-## 🛠 Ferramentas
+## 📊 Estatísticas
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
----
-
-## 🌍 Onde me encontrar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-walace/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardowalace2@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USERNAME]&theme=radical" alt="Sequência de Commits" />
+</div>
 
 ---
 
-##  📂 Projetos
+## 🖥️ Principais Linguagens
 
-## Fintech:
--  O projeto Fintech é uma aplicação inovadora voltada para o setor financeiro, oferecendo soluções tecnológicas para otimizar a gestão de investimentos, transações e análise de dados financeiros. Desenvolvido com tecnologias modernas como React Native, Laravel e Firebase, o sistema permite que usuários acompanhem seus rendimentos, realizem operações seguras e obtenham insights valiosos sobre suas finanças. Com uma interface intuitiva e responsiva, o projeto busca democratizar o acesso a serviços financeiros, tornando a experiência do usuário mais ágil, eficiente e acessível.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&theme=radical" alt="Top Linguagens" />
+</div>
+
+**Progresso das Linguagens:**
+
+- **Python**: 80%  
+  ![Python](https://progress-bar.dev/80/?title=Python&width=200)
+- **JavaScript**: 75%  
+  ![JavaScript](https://progress-bar.dev/75/?title=JavaScript&width=200)
+- **TypeScript**: 60%  
+  ![TypeScript](https://progress-bar.dev/60/?title=TypeScript&width=200)
+- **PHP**: 70%  
+  ![PHP](https://progress-bar.dev/70/?title=PHP&width=200)
+- **SQL**: 65%  
+  ![SQL](https://progress-bar.dev/65/?title=SQL&width=200)
+
+---
+
+## ⚙️ Principais Habilidades
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,php,python,mysql,bootstrap,laravel,typescript,javascript,css,html" />
+</div>
+
+---
+
+## 🏆 Conquistas
+
+- 🥇 Selecionado como um dos **16 melhores projetos do SENAI** em 2024.  
+- 🥈 Finalista em eventos como **Dev Experience** e **Senai para o Mundo**.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,php,python,mysql,sqlite,bootstrap,tailwind,css,html,javascript,typescript" />
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+  <a href="mailto:[SEU_EMAIL]@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+## 🚀 Projetos
+
+### Destaque: **Vann**
+
+Sistema desenvolvido para otimizar a rotina de condutores e oferecer tranquilidade aos pais, permitindo a visualização da rota em tempo real.
+
+**Tecnologias:** PHP, Laravel, JavaScript, React Native, React, CSS, HTML, Python, SQL.
 
 ---
 
 ## 🎓 Formação e Experiência
 
-- 📘 Formação técnica em Desenvolvimento de Sistemas pelo **SENAI**
-- 📗 Cursando Análise e Desenvolvimento de Sistemas pelo **SENAI**
-- 🏆 Experiência liderando equipes e projetos
+- **Formação Técnica e Superior** - SENAI  
+- **Experiência:** Liderança de equipes e projetos em desenvolvimento de software.  
+- **Eventos:** Participação em competições e eventos de tecnologia, como Dev Experience e Senai para o Mundo.
 
 ---
 
-## 🔥 Repositórios Populares
+## 🌟 Contribuições e Repositórios Populares
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/duwalace/bytecode">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duwalace&repo=bytecode&theme=dark&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/duwalace/caueeex">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duwalace&repo=caueeex&theme=dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/duwalace/Sistema-Vann">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duwalace&repo=Sistema-Vann&theme=dark&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/duwalace/React-Vann">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duwalace&repo=React-Vann&theme=dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USERNAME]&theme=react-dark" alt="Gráfico de Contribuições" />
+</div>
+
+- **[analisedepecas](https://github.com/[SEU_USERNAME]/analisedepecas)**  
+  Tecnologias: Python, Tkinter, Pandas  
+- **[Vann](https://github.com/[SEU_USERNAME]/Vann)**  
+  Tecnologias: CSS, PHP, SQL  
+- **[Site-da-Nasa](https://github.com/[SEU_USERNAME]/Site-da-Nasa)**  
+  Tecnologias: HTML, CSS  
 
 ---
 
-
+<div align="center">
+  <p>Feito com ❤️ por [Seu Nome]</p>
+</div>
