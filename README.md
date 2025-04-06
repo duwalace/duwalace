@@ -1,15 +1,87 @@
-<h2 style="text-align: center;">ABOUT ME</h2>
-🛠️ I’m currently working on:<br>Um sistema de loja de floricultura com CRUD e carrinho de compras, usando PHP e MySQL.<br><br>🤝 I’m looking to collaborate on:<br>Projetos de backend com PHP, Laravel ou APIs REST, e também estou aberto a projetos com React ou React Native.<br><br>🌱 I’m currently learning:<br>React, React Native e aprofundando meus conhecimentos em Laravel e segurança da informação.<br><br>💬 Ask me about:<br>Desenvolvimento web, integração de APIs, banco de dados, arquitetura de software e boas práticas de programação.<br><br>⚡ Fun fact:<br>Já desenvolvi um jogo da cobrinha inspirado em Family Guy, e adoro transformar ideias simples em projetos criativos.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&letterSpacing=&pause=1000&color=ADD8E6&center=true&width=1000&lines=%F0%9F%91%8B+Hello%2Cmy+name+is+Eduardo+Walace.;%F0%9F%92%BB+I+am+a+Full+Stack+Developer.;%F0%9F%9A%80+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/duwalace) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duwalace) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duwalace) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Eduardo Walace) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eduardowalace1000@gmail.com) 
+<h2 align="center">ABOUT ME</h2>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=duwalace&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=duwalace&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duwalace&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho experiência no desenvolvimento de sistemas web e mobile, utilizando diversas tecnologias para criar soluções eficientes, modernas e inovadoras.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+> STATS
+
+<div align="center">  
+<img width=400 src="https://streak-stats.demolab.com?user=duwalace&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&theme=dark&ring=ADD8E6&fire=ADD8E6&sideNums=ADD8E6">
+<img height="155" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duwalace&hide_border=true&layout=compact&theme=dark&title_color=ADD8E6&text_color=ADD8E6&icon_color=ADD8E6"/>
+</div>
+<br>
+
+> MAIN SKILLS
+
+<div align="center">
+<img margin-top:50px src="https://skillicons.dev/icons?i=react,next,angular,ts,nodejs,php,laravel,mysql,python,bootstrap&perline=10" />
+</div>
+
+---
+
+> 🏆 Conquistas
+
+- 🥇 *Selecionado como um dos 16 melhores projetos do SENAI em 2024*
+- 🥉 *Finalista em duas edições em eventos como Dev Experience e Senai para o Mundo*
+
+---
+
+> 🛠 Tecnologias
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+</div>
+
+---
+
+> CONTACT
+
+<div align="center">
+<a href = "mailto:eduardowalace2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
+<a href="https://www.linkedin.com/in/guilherme-yan-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+---
+
+> 🚀 Projetos
+
+### 📌 Vann
+> *Descrição*: Sistema desenvolvido para otimizar a rotina de condutores e oferecer tranquilidade aos pais, permitindo a visualização da rota em tempo real.
+> *Destaques*: Selecionado como um dos 16 melhores projetos do SENAI em 2024.
+> *Tecnologias*: PHP, Laravel, Javascript, React Native, React, CSS, HTML, Python, SQL.
+> *Meu Papel*: Atuei como desenvolvedor e co-líder do projeto, utilizando metodologias ágeis (Scrum) para gerenciar a equipe e garantir a entrega de um software de alta qualidade.
+
+---
+
+> 🎓 Formação e Experiência
+
+- 🎓 Formação técnica em Desenvolvimento de Sistemas pelo *SENAI*
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo *SENAI*
+- 🏆 Experiência liderando equipes e projetos
+- 🏅 Participação em competições e eventos da área de tecnologia
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" />
+</picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
