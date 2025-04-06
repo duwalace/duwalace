@@ -19,7 +19,7 @@ Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho ex
 > MAIN SKILLS
 
 <div align="center">
-<img margin-top:50px src="https://skillicons.dev/icons?i=react,next,angular,ts,nodejs,php,laravel,mysql,python,bootstrap&perline=10" />
+<img margin-top:50px src="https://skillicons.dev/icons?i=react,nodejs,javascript,php,laravel,mysql,python,bootstrap&perline=10" />
 </div>
 
 ---
