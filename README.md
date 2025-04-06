@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&letterSpacing=&pause=1000&color=ADD8E6&center=true&width=1000&lines=%F0%9F%91%8B+Hello%2Cmy+name+is+Eduardo+Walace.;%F0%9F%92%BB+I+am+a+Full+Stack+Developer.;%F0%9F%9A%80+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<h2 align="center">ABOUT ME</h2>
+<h2 align="center">SOBRE MIM</h2>
 
 Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho experiência no desenvolvimento de sistemas web e mobile, utilizando diversas tecnologias para criar soluções eficientes, modernas e inovadoras.
 
 ---
 
-> STATS
+> ESTATÍSTICAS
 
 <div align="center">  
 <img width=400 src="https://streak-stats.demolab.com?user=duwalace&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&theme=dark&ring=ADD8E6&fire=ADD8E6&sideNums=ADD8E6">
@@ -16,7 +16,7 @@ Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho ex
 </div>
 <br>
 
-> MAIN SKILLS
+> PRINCIPAIS SKILLS
 
 <div align="center">
 <img margin-top:50px src="https://skillicons.dev/icons?i=javascript,php,laravel,mysql,python,bootstrap&perline=10" />
@@ -31,7 +31,7 @@ Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho ex
 
 ---
 
-> 🛠 Tecnologias
+> 🛠 Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -48,7 +48,7 @@ Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho ex
 
 ---
 
-> CONTACT
+> CONTATOS
 
 <div align="center">
 <a href = "mailto:eduardowalace2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
