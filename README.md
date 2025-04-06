@@ -59,11 +59,15 @@ Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho ex
 
 > 🚀 Projetos
 
-### 📌 Vann
-> *Descrição*: Sistema desenvolvido para otimizar a rotina de condutores e oferecer tranquilidade aos pais, permitindo a visualização da rota em tempo real.
-> *Destaques*: Selecionado como um dos 16 melhores projetos do SENAI em 2024.
-> *Tecnologias*: PHP, Laravel, Javascript, React Native, React, CSS, HTML, Python, SQL.
-> *Meu Papel*: Atuei como desenvolvedor e co-líder do projeto, utilizando metodologias ágeis (Scrum) para gerenciar a equipe e garantir a entrega de um software de alta qualidade.
+<p align="left">
+  <img src="coloque_o_caminho_da_imagem_aqui" alt="Logo Viva Flor" width="30" style="vertical-align:middle; margin-right:10px;" />
+  <strong>Viva Flor</strong>
+</p>
+
+> **Descrição**: Plataforma desenvolvida para facilitar o gerenciamento e a venda de flores e arranjos, conectando floriculturas a clientes de forma prática e eficiente.  
+> **Destaques**: Projeto com foco em experiência do usuário, acessibilidade e design responsivo.  
+> **Tecnologias**: PHP, Laravel, Javascript, React, CSS, HTML, Python, SQL.  
+> **Meu Papel**: Atuei como desenvolvedor Full Stack, contribuindo no front-end e back-end do sistema. Participei ativamente das decisões de design e lógica do sistema, utilizando práticas ágeis (Scrum) para o desenvolvimento em equipe.
 
 ---
 
