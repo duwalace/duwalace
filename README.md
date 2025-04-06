@@ -60,7 +60,7 @@ Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho ex
 > 🚀 Projetos
 
 <p align="left">
-  <img src="coloque_o_caminho_da_imagem_aqui" alt="Logo Viva Flor" width="30" style="vertical-align:middle; margin-right:10px;" />
+  <img src="logo.png" alt="Logo Viva Flor" width="30" style="vertical-align:middle; margin-right:10px;" />
   <strong>Viva Flor</strong>
 </p>
 
