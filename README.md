@@ -1,4 +1,4 @@
-# 💫 About Me:
+  <h1>ABOUT ME</h1>
 🛠️ I’m currently working on:<br>Um sistema de loja de floricultura com CRUD e carrinho de compras, usando PHP e MySQL.<br><br>🤝 I’m looking to collaborate on:<br>Projetos de backend com PHP, Laravel ou APIs REST, e também estou aberto a projetos com React ou React Native.<br><br>🌱 I’m currently learning:<br>React, React Native e aprofundando meus conhecimentos em Laravel e segurança da informação.<br><br>💬 Ask me about:<br>Desenvolvimento web, integração de APIs, banco de dados, arquitetura de software e boas práticas de programação.<br><br>⚡ Fun fact:<br>Já desenvolvi um jogo da cobrinha inspirado em Family Guy, e adoro transformar ideias simples em projetos criativos.
 
 
