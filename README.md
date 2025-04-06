@@ -57,7 +57,7 @@ Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho ex
 
 ---
 
-> <h1 style="color: white;">🚀 Projetos</h1>
+> <h2 style="color: white;">🚀 Projetos</h2>
 
 <h3 style="color: white;">🌸 Viva Flor</h3>
 
