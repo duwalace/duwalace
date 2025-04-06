@@ -59,10 +59,9 @@ Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho ex
 
 > 🚀 Projetos
 
-<p align="left">
-  <img src="logo.png" alt="Logo Viva Flor" width="30" style="vertical-align:middle; margin-right:10px;" />
-  <strong>Viva Flor</strong>
-</p>
+
+  
+ > <h2 style="font-weight: bold;">Viva Flor</h2>
 
 > **Descrição**: Plataforma desenvolvida para facilitar o gerenciamento e a venda de flores e arranjos, conectando floriculturas a clientes de forma prática e eficiente.  
 > **Destaques**: Projeto com foco em experiência do usuário, acessibilidade e design responsivo.  
