@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&letterSpacing=&pause=1000&color=ADD8E6&center=true&width=1000&lines=%F0%9F%91%8B+Hello%2Cmy+name+is+Eduardo+Walace.;%F0%9F%92%BB+I+am+a+Full+Stack+Developer.;%F0%9F%9A%80+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <h2 align="center">SOBRE MIM</h2>
-
+<br>
 Sou Eduardo Walace, desenvolvedor Full Stack apaixonado por tecnologia. Tenho experiência no desenvolvimento de sistemas web e mobile, utilizando diversas tecnologias para criar soluções eficientes, modernas e inovadoras.
 
 ---
